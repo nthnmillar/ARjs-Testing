@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Trick Cubes</title>
+  </head>
+  <body>
+    <div id = "container"></div>
+    <script src = "js/awe-loader.js"></script>
+<script>
+    window.addEventListener('load', function(){
+        var largeBox_open = false;
+        var mediumBox_open = false;
+      window.awe.init({
+        device_type:awe.AUTO_DETECT_DEVICE_TYPE,
+        settings: {
+          container_id: 'container',
+          fps:60,
+          default_camera_position: {x: 0, y: 0, z:0},
+          default_lights: [{
+            id:'point_light',
+            type:'point',
+            color: 0xFFFFFF
+          }]
+        },
+
+    ready: function(){
+        awe.until.require([
+        {
+          capabilities: ['gum', 'webgl'],
+          files: [
+          ['js/awe-standard-dependencies.js', 'js/awe-standard.js'],
+            'js/awe-standard-object_clicked.js',
+            'js/awe-jsartoolkit-dependencies,js',
+            'js/awe.marker_ar.js'
+          ],
+          success: function(){
+            window.awe.setup_scene();
+
+            //POIS
+            awe.pois.add({id: 'marker', position: {x: 0, y: 0, z:10000}, visibility
+                : false});
+
+            awe.projections.add({
+                id: 'largeBox',
+                geometry: {shape: 'cube', x: 180, y: 150, z: 180},
+                position: {x: 0, y: 0, z: 0},
+                rotation: {x: 90, z: 45},
+                material: {color: 0xFFFFFF, opacity: 1.0, transparent: true,
+                    wireframe: false, fog: true }
+            }, {poi_id: 'marker'});
+
+            awe.projection.add({
+              id: 'lmediumBox',
+              geometry: {shape: 'cube', x: 90, y: 90, z: 90},
+              position: {x: -5, y: -31, z: -5},
+              rotation: {y: 45},
+              material: {
+                type: 'phong',
+                color: 0xFFFFFF
+              }
+          }, {poi_id: 'marker'});
+
+          awe.events.add([{
+                id: 'ar_tracking_marker',
+                device_types:{
+                  pc: 1,
+                  android: 1,
+                  mac: 1,
+                  iphone: 1
+                },
+                register: function(handler){
+                  window.addEventListener('ar_tracking_marker', handler, false);
+                },
+                unregister: function(handler){
+                  window.removeEventListener('ar_tracking_marker', handler, false);
+                },
+                handler: function(event){
+                  if (event.detail){
+                    if (event.detail['64']){
+                        awe.pois.update({
+                            data:{
+                              visible:true,
+                              position: {x: 0, y: 0, z:0},
+                              matrix: event.detail['64'].transform
+                            },
+                            where:{
+                              id: 'marker'
+                            }
+                          });
+                          awe.projection.update({
+                            data:{
+                              visible:true
+                            },
+                            where: {
+                              id: 'largeBox'
+                            }
+                          });
+                        }
+                        else{
+                          awe.pois.update({
+                            data:{
+                              visible:false
+                            },
+                            where: {
+                              id:'marker'
+                            }
+                          });
+                        }
+                        awe.scene_needs_rendering = 1;
+                    }
+                  }
+                }]);
+                window.addEventListener('object_clicked', function(e){
+                  switch(e.detail.projection_id){
+                    case 'largeBox':
+                    if(!large_Box_open){
+                      awe.projections.update({
+                        data:{
+                            animation:{
+                              duration: 1
+                          },
+                            position: {y: 120}
+                        },
+                        where: {id:'mediumBox'}
+                      });
+                    } else {
+                      awe.projections.update({
+                        data:{
+                          animation:{
+                            duration: 1
+                          },
+                          position:{y:-31}
+                        },
+                          where: {id:'mediumBox'}
+                      });
+                    }
+                    large_Box_open = !largeBox_open;
+                    break;
+                    case 'mediumBox':
+
+                    break;
+                  }
+                }, false);
+              }//success
+            },
+          ]);//awe.util.require
+        } //ready
+      });//window.awe.init
+    });//load
+
+</script>
+  </body>
+</html>
