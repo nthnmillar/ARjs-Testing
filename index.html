@@ -9,9 +9,9 @@
   <a-scene embedded arjs='sourceType: webcam;'>
     <a-marker-camera preset='hiro'>
 
-      <a-entity scale=".2 .2 .2">
-        <a-entity
-            fbx-model: "src: url(https://nthnmillar.github.io/ARjs-Testing/models/headphones/fbx/headhpones.fbx);" >
+      <a-entity>
+        <a-entity position= "0 1 0" rotation= "90 180 0" scale="0.002 0.002 0.002"
+            gltf-model=”url(https://nthnmillar.github.io/ARjs-Testing/models/headphones/gtlf/scene.gltf)”>
       </a-entity>
     </a-marker-camera>
   </a-scene>
@@ -19,6 +19,10 @@
 </html>
 
 <!--
+
+<a-entity position= "0 0 -10" rotation= "90 0 0"
+    gltf-model=”url(https://nthnmillar.github.io/ARjs-Testing/models/headphones/gtlf/scene.gltf)”>
+</a-entity>
 <!DOCTYPE html>
 <html>
 <head>
