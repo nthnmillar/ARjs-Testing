@@ -6,12 +6,18 @@
 </head>
 <body style='margin : 0px; overflow: hidden;'>
 
-  <a-scene embedded arjs='sourceType: webcam;'>
+  <a-scene embedded arjs='trackingMethod: best;'>
     <a-marker-camera preset='hiro'>
 
-      <a-entity>
-        <a-entity position= "0 0 0" rotation= "90 180 0" scale="0.002 0.002 0.002"
+      <a-entity rotation= "90 180 0">
+        <a-entity position= "0 0 1" scale="0.002 0.002 0.002"
             gltf-model=”url(https://nthnmillar.github.io/ARjs-Testing/models/headphones/gtlf/scene.gltf)”>
+            <a-animation attribute="rotation"
+                 dur="7000"
+                 to="0 360 0"
+                 easing= "linear"
+                 repeat="indefinite">
+            </a-animation>
       </a-entity>
     </a-marker-camera>
   </a-scene>
