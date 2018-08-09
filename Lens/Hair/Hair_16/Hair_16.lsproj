@@ -1,0 +1,4492 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1533772394155",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Flower [REMOVE_ME]"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "Cap_1"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "Cap_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "Cloner"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerBody"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerHead"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerPaddle_0"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerPaddle_1"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerPaddle_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerPaddle_3"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "FlowerPaddle_4"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder10"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder3"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder4"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder5"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder6"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder7"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder8"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "GrassHolder9"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Animations",
+                        "Leaf"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "FlowerBody"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "FlowerFace01"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "FlowerFace02"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "FlowerPaddle01"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "FlowerPaddle02"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "Grass"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Materials",
+                        "Pot"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "BAckFlowerMain"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "BackFlower"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Cap_1"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Cap_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Face"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "FlowerPaddle_0"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "FlowerPaddle_1"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "FlowerPaddle_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "FlowerPaddle_3"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "FlowerPaddle_4"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_3"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_4"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_5"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_6"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_7"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_8"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Grass_9"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Leaf"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Pot"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Meshes",
+                        "Sweep"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Flower06_Mat_2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "FlowerFace"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "FlowerFace2"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Grass_DefaultMaterial_base"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Grass_DefaultMaterial_materialParams"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Flower [REMOVE_ME]",
+                        "Textures",
+                        "Pot_base"
+                    ],
+                    [
+                        "Hair Strands"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter",
+                        "thin_stand_0_2_LIGHT"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter",
+                        "thin_strand_02_2_LIGHT"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter",
+                        "thin_strand_02_LIGHT"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter",
+                        "thin_strand_05_2_LIGHT"
+                    ],
+                    [
+                        "Hair Strands",
+                        "Iighter",
+                        "thin_strand_05_LIGHT"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "strand_01"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "strand_02"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "strand_03"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "strand_04"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_stand_0"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_stand_0_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_01"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_01_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_02"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_02_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_03"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_04"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_05"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_05_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_06"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_06_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_07"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_07_2"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_08"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_09"
+                    ],
+                    [
+                        "Hair Strands",
+                        "darker",
+                        "thin_strand_09_2"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "Post_effect_lookup_table"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "billboard_multi_face"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "vignette"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "Overlay Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ],
+                    [
+                        "hair_039"
+                    ],
+                    [
+                        "hair_039",
+                        "Materials"
+                    ],
+                    [
+                        "hair_039",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "hair_039",
+                        "Meshes"
+                    ],
+                    [
+                        "hair_039",
+                        "Meshes",
+                        "hair_Cube.001"
+                    ],
+                    [
+                        "hair_039",
+                        "Textures"
+                    ],
+                    [
+                        "hair_039",
+                        "Textures",
+                        "hair_tex_2048_v40.jpg"
+                    ],
+                    [
+                        "occulder-face_v2"
+                    ],
+                    [
+                        "occulder-face_v2",
+                        "Materials"
+                    ],
+                    [
+                        "occulder-face_v2",
+                        "Materials",
+                        "Texture2"
+                    ],
+                    [
+                        "occulder-face_v2",
+                        "Meshes",
+                        "occulder-head_skin_hi.001"
+                    ],
+                    [
+                        "occulder-face_v2",
+                        "Textures"
+                    ],
+                    [
+                        "occulder-face_v2",
+                        "Textures",
+                        "GoodBieber_skin_hi.jpg"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1495032264252211:307",
+                    "1515437954945331:32055",
+                    "1515437955024915:32226",
+                    "1515437955065812:32344",
+                    "1515447226609287:53040",
+                    "1515451110518990:20746",
+                    "1515451110648530:20844",
+                    "1515455815627613:90623",
+                    "1515456190475596:102244",
+                    "1515456198509780:105510",
+                    "1515456198509877:105522",
+                    "1515456198509883:105525",
+                    "1515456198510427:105758",
+                    "1515456198510457:105771",
+                    "1515456871716258:120137",
+                    "1515457433034661:133508",
+                    "1515457433041807:133512",
+                    "1515457466938051:134855",
+                    "1515457534904396:141848",
+                    "1515457534965412:141923",
+                    "1515464433757800:32419",
+                    "1521511805504827:32161",
+                    "1532672648445788:10169",
+                    "1532928681245063:52665",
+                    "1533107603717099:2220478",
+                    "1533107678900559:2251179",
+                    "1533107763305166:2282494",
+                    "1533107842383484:2315333",
+                    "1533107899936226:2346531",
+                    "1533107954487869:2377899",
+                    "1533527017310024:56713",
+                    "1533530626320567:116056",
+                    "1533530867583476:125899",
+                    "1533537860301759:445625",
+                    "1533599657890741:15818"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "8811632c55beaa5de2dc0afdd7b3b9fb",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Amy Shark",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515456804637592:117173",
+                    "1515456823497523:117420",
+                    "1515456871722110:120141",
+                    "1515456897991503:121200",
+                    "1515457433047428:133516",
+                    "1515464433763075:32422",
+                    "1515464487246879:32511",
+                    "1515468347440900:16945",
+                    "1521656717027284:89815",
+                    "1521656726144568:92604",
+                    "1521689428684536:7773",
+                    "1521689431419606:10486"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1495032319834957:392",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1515438105511768:9107",
+                    "name": "\/Resources\/Resource54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1515438164605489:9974",
+                    "name": "\/Resources\/Resource55",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1515438164606967:9986",
+                    "name": "\/Resources\/Resource56.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1515438164609890:9998",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1515438164612140:10010",
+                    "name": "\/Resources\/Resource58.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1515438164614618:10022",
+                    "name": "\/Resources\/Resource59.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1515438164617136:10034",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1515438230235906:10140",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1515438318891573:10366",
+                    "name": "\/Resources\/Resource64",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1515438354555577:10420",
+                    "name": "\/Resources\/Resource65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1515438844744786:10549",
+                    "name": "\/Resources\/Resource66",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1515438986983772:13647",
+                    "name": "\/Resources\/Resource67",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1515439827203175:14060",
+                    "name": "\/Resources\/Resource68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1515439827336902:14077",
+                    "name": "\/Resources\/Resource69.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1515439895203251:14400",
+                    "name": "\/Resources\/Resource70",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1515447731593944:64759",
+                    "name": "\/Resources\/Resource142.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1515449132388125:15362",
+                    "name": "\/Resources\/Resource239.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_4"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1515449132394829:15442",
+                    "name": "\/Resources\/Resource240.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_9"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1515449132389444:15378",
+                    "name": "\/Resources\/Resource241.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_5"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1515449132459740:15491",
+                    "name": "\/Resources\/Resource242.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Face"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "243",
+                    "uid": "1515449132458641:15475",
+                    "name": "\/Resources\/Resource243.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "BackFlower"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1515449132386391:15346",
+                    "name": "\/Resources\/Resource244.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_3"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1515449132458894:15483",
+                    "name": "\/Resources\/Resource245.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "BAckFlowerMain"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "246",
+                    "uid": "1515449132390685:15394",
+                    "name": "\/Resources\/Resource246.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_6"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1515449132384618:15330",
+                    "name": "\/Resources\/Resource247.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_2"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1515449132392121:15410",
+                    "name": "\/Resources\/Resource248.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_7"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "249",
+                    "uid": "1515449132397039:15450",
+                    "name": "\/Resources\/Resource249.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Pot"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1515449132490445:15594",
+                    "name": "\/Resources\/Resource250.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Leaf"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1515449132492322:15616",
+                    "name": "\/Resources\/Resource251.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Cap_1"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1515449132492097:15608",
+                    "name": "\/Resources\/Resource252.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Sweep"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1515449132493406:15630",
+                    "name": "\/Resources\/Resource253.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Cap_2"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1515449132482048:15514",
+                    "name": "\/Resources\/Resource254.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_0"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1515449132483757:15528",
+                    "name": "\/Resources\/Resource255.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_1"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1515449132485650:15542",
+                    "name": "\/Resources\/Resource256.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_2"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1515449132487224:15556",
+                    "name": "\/Resources\/Resource257.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_3"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1515449132488701:15570",
+                    "name": "\/Resources\/Resource258.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_4"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "259",
+                    "uid": "1515449132393513:15426",
+                    "name": "\/Resources\/Resource259.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Grass_8"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "260",
+                    "uid": "1515449132386557:15352",
+                    "name": "\/Resources\/Resource260",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder5",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1515449132383235:15320",
+                    "name": "\/Resources\/Resource261",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder3",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1515449132480743:15504",
+                    "name": "\/Resources\/Resource262",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Cloner",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1515449132388247:15368",
+                    "name": "\/Resources\/Resource263",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder6",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1515449132393618:15432",
+                    "name": "\/Resources\/Resource264",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder10",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "265",
+                    "uid": "1515449132392224:15416",
+                    "name": "\/Resources\/Resource265",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder9",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "266",
+                    "uid": "1515449132384802:15336",
+                    "name": "\/Resources\/Resource266",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder4",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "267",
+                    "uid": "1515449132457548:15463",
+                    "name": "\/Resources\/Resource267",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerHead",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "268",
+                    "uid": "1515449132489399:15582",
+                    "name": "\/Resources\/Resource268",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerBody",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "269",
+                    "uid": "1515449132490470:15596",
+                    "name": "\/Resources\/Resource269",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Leaf",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "270",
+                    "uid": "1515449132492339:15618",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Cap_1",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "271",
+                    "uid": "1515449132493431:15632",
+                    "name": "\/Resources\/Resource271",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Cap_2",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1515449132390762:15400",
+                    "name": "\/Resources\/Resource272",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder8",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1515449132482070:15516",
+                    "name": "\/Resources\/Resource273",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_0",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1515449132483793:15530",
+                    "name": "\/Resources\/Resource274",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_1",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1515449132485685:15544",
+                    "name": "\/Resources\/Resource275",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_2",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "276",
+                    "uid": "1515449132487243:15558",
+                    "name": "\/Resources\/Resource276",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_3",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1515449132488717:15572",
+                    "name": "\/Resources\/Resource277",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "FlowerPaddle_4",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1515449132389524:15384",
+                    "name": "\/Resources\/Resource278",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "GrassHolder7",
+                        "animationLayer": "Layer0"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1515451110646717:20835",
+                    "name": "sceneObject_111 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "289",
+                    "uid": "1515456008881478:94553",
+                    "name": "\/Resources\/Resource289.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "290",
+                    "uid": "1515456017261735:94591",
+                    "name": "\/Resources\/Resource290",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "291",
+                    "uid": "1515456048620874:94703",
+                    "name": "\/Resources\/Resource291",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1515461681360869:20188",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1521511542666184:7784",
+                    "name": "\/Resources\/Resource315.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1521511542713532:7796",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1521511542715008:7808",
+                    "name": "\/Resources\/Resource317.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1521511542742646:7820",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1521511542744073:7832",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1521511542756928:7844",
+                    "name": "\/Resources\/Resource320",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "325",
+                    "uid": "1532665617367663:3998",
+                    "name": "\/Resources\/Resource325",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "328",
+                    "uid": "1532665617371393:4035",
+                    "name": "\/Resources\/Resource328.png",
+                    "sourceFilePath": "\/var\/folders\/87\/kmsb1b5n5fd4nptwz_nzdzcr0000gp\/T\/Lens Studio-bQxTww\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "329",
+                    "uid": "1532665617372472:4044",
+                    "name": "\/Resources\/Resource329.jpg",
+                    "sourceFilePath": "\/var\/folders\/87\/kmsb1b5n5fd4nptwz_nzdzcr0000gp\/T\/Lens Studio-bQxTww\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "330",
+                    "uid": "1532665617378190:4054",
+                    "name": "\/Resources\/Resource330",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "364",
+                    "uid": "1533017860823375:63606",
+                    "name": "\/Resources\/Resource364.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/strand_01.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "368",
+                    "uid": "1533018211476512:70215",
+                    "name": "\/Resources\/Resource368.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/strand_02.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "371",
+                    "uid": "1533018896899878:77951",
+                    "name": "\/Resources\/Resource371.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/strand_03.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "372",
+                    "uid": "1533018905689641:77977",
+                    "name": "\/Resources\/Resource372.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/strand_04.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "398",
+                    "uid": "1533085938772437:119134",
+                    "name": "\/Resources\/Resource398.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_01_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "399",
+                    "uid": "1533085938882051:119147",
+                    "name": "\/Resources\/Resource399.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_02_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "400",
+                    "uid": "1533085939002270:119160",
+                    "name": "\/Resources\/Resource400.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_03.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "401",
+                    "uid": "1533085939070208:119173",
+                    "name": "\/Resources\/Resource401.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_04.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "402",
+                    "uid": "1533085939167524:119186",
+                    "name": "\/Resources\/Resource402.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_05_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "403",
+                    "uid": "1533085939267152:119199",
+                    "name": "\/Resources\/Resource403.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_05.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "404",
+                    "uid": "1533085939356181:119212",
+                    "name": "\/Resources\/Resource404.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_06_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "405",
+                    "uid": "1533085939424541:119225",
+                    "name": "\/Resources\/Resource405.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_07_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "406",
+                    "uid": "1533085939519535:119238",
+                    "name": "\/Resources\/Resource406.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_08.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "407",
+                    "uid": "1533085939618910:119251",
+                    "name": "\/Resources\/Resource407.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_09_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "409",
+                    "uid": "1533086015190416:119287",
+                    "name": "\/Resources\/Resource409.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_stand_0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "410",
+                    "uid": "1533086024841445:119300",
+                    "name": "\/Resources\/Resource410.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_stand_0_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "412",
+                    "uid": "1533086033306598:119340",
+                    "name": "\/Resources\/Resource412",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "413",
+                    "uid": "1533086092748268:122466",
+                    "name": "\/Resources\/Resource413.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_07.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "414",
+                    "uid": "1533086121122337:122490",
+                    "name": "\/Resources\/Resource414.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_06.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "415",
+                    "uid": "1533086175941914:122518",
+                    "name": "\/Resources\/Resource415.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_01.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "416",
+                    "uid": "1533086193363993:122532",
+                    "name": "\/Resources\/Resource416.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_02.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "418",
+                    "uid": "1533087727064274:122606",
+                    "name": "\/Resources\/Resource418",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "419",
+                    "uid": "1533088369369812:127661",
+                    "name": "\/Resources\/Resource418",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "421",
+                    "uid": "1533088417234780:131025",
+                    "name": "\/Resources\/Resource421",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "423",
+                    "uid": "1533090972171675:141324",
+                    "name": "\/Resources\/Resource423",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "425",
+                    "uid": "1533091008307494:144614",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "427",
+                    "uid": "1533091028988111:148071",
+                    "name": "\/Resources\/Resource427",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "429",
+                    "uid": "1533091201915842:151594",
+                    "name": "\/Resources\/Resource429.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/thin_strand_09.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "431",
+                    "uid": "1533091220034846:151637",
+                    "name": "\/Resources\/Resource431",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "433",
+                    "uid": "1533091250463091:155045",
+                    "name": "\/Resources\/Resource433",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "435",
+                    "uid": "1533091259931566:158366",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "437",
+                    "uid": "1533091272101640:161845",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "439",
+                    "uid": "1533091285843474:165366",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "441",
+                    "uid": "1533091295994461:168929",
+                    "name": "\/Resources\/Resource441",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "443",
+                    "uid": "1533091308184441:172418",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "445",
+                    "uid": "1533091321203938:175949",
+                    "name": "\/Resources\/Resource445",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "446",
+                    "uid": "1533092246552013:260979",
+                    "name": "\/Resources\/Resource421",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "448",
+                    "uid": "1533092246562957:261041",
+                    "name": "\/Resources\/Resource445",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "449",
+                    "uid": "1533092246567828:261072",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "450",
+                    "uid": "1533092246573249:261103",
+                    "name": "\/Resources\/Resource441",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "451",
+                    "uid": "1533092246577582:261134",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "452",
+                    "uid": "1533092246581285:261165",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "453",
+                    "uid": "1533092246585351:261196",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "454",
+                    "uid": "1533092246590626:261227",
+                    "name": "\/Resources\/Resource433",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "455",
+                    "uid": "1533092246595327:261258",
+                    "name": "\/Resources\/Resource431",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "456",
+                    "uid": "1533092246599777:261289",
+                    "name": "\/Resources\/Resource427",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "457",
+                    "uid": "1533092246605604:261320",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "458",
+                    "uid": "1533092246610607:261351",
+                    "name": "\/Resources\/Resource423",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "459",
+                    "uid": "1533095855834401:350057",
+                    "name": "\/Resources\/Resource421",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "461",
+                    "uid": "1533095855845799:350119",
+                    "name": "\/Resources\/Resource445",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "462",
+                    "uid": "1533095855851071:350150",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "463",
+                    "uid": "1533095855856093:350181",
+                    "name": "\/Resources\/Resource441",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "464",
+                    "uid": "1533095855860644:350212",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "465",
+                    "uid": "1533095855866735:350243",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "466",
+                    "uid": "1533095855872088:350274",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "467",
+                    "uid": "1533095855876853:350305",
+                    "name": "\/Resources\/Resource433",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "468",
+                    "uid": "1533095855881708:350336",
+                    "name": "\/Resources\/Resource431",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "469",
+                    "uid": "1533095855886896:350367",
+                    "name": "\/Resources\/Resource427",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "470",
+                    "uid": "1533095855892071:350398",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "471",
+                    "uid": "1533095855897174:350429",
+                    "name": "\/Resources\/Resource423",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "474",
+                    "uid": "1533099390784704:962610",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "475",
+                    "uid": "1533099505293291:985648",
+                    "name": "\/Resources\/Resource433",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "476",
+                    "uid": "1533099659308509:1001828",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "477",
+                    "uid": "1533101339688381:1029847",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "478",
+                    "uid": "1533101397522321:1054940",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "479",
+                    "uid": "1533101480635494:1078298",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "480",
+                    "uid": "1533101574984150:1100470",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "481",
+                    "uid": "1533101703055309:1121257",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "482",
+                    "uid": "1533101747672090:1143509",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "483",
+                    "uid": "1533101877897875:1173894",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "484",
+                    "uid": "1533101929398349:1201007",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "485",
+                    "uid": "1533102037350780:1231959",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "486",
+                    "uid": "1533102109826955:1256323",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "487",
+                    "uid": "1533102174977582:1286559",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "488",
+                    "uid": "1533102232136252:1312116",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "489",
+                    "uid": "1533102276237357:1330173",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "490",
+                    "uid": "1533102358545699:1348847",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "491",
+                    "uid": "1533102669273365:1399431",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "492",
+                    "uid": "1533103094444934:1439182",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "493",
+                    "uid": "1533103276361379:1465215",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "494",
+                    "uid": "1533103665350663:1501281",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "495",
+                    "uid": "1533103940090376:1546015",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "496",
+                    "uid": "1533103973566164:1569016",
+                    "name": "\/Resources\/Resource443",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "497",
+                    "uid": "1533104200824050:1603568",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "498",
+                    "uid": "1533104630028723:1646394",
+                    "name": "\/Resources\/Resource441",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "499",
+                    "uid": "1533104730901560:1674121",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "500",
+                    "uid": "1533104949524615:1714293",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "501",
+                    "uid": "1533105438617686:1844190",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "502",
+                    "uid": "1533105490217432:1870187",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "503",
+                    "uid": "1533105669594463:1905878",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "504",
+                    "uid": "1533105869287223:1949439",
+                    "name": "\/Resources\/Resource445",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "505",
+                    "uid": "1533105932280038:1981849",
+                    "name": "\/Resources\/Resource423",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "506",
+                    "uid": "1533106709975895:2021891",
+                    "name": "\/Resources\/Resource425",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "507",
+                    "uid": "1533107069047163:2073074",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "508",
+                    "uid": "1533107117979399:2101168",
+                    "name": "\/Resources\/Resource445",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "509",
+                    "uid": "1533107447805679:2150988",
+                    "name": "\/Resources\/Resource412",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "510",
+                    "uid": "1533107548470112:2191677",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "511",
+                    "uid": "1533107603717265:2220485",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "512",
+                    "uid": "1533107678900731:2251189",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "513",
+                    "uid": "1533107763305342:2282504",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "514",
+                    "uid": "1533107842383657:2315343",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "515",
+                    "uid": "1533107899936409:2346541",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "516",
+                    "uid": "1533107954488057:2377909",
+                    "name": "\/Resources\/Resource437",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "552",
+                    "uid": "1533530867600764:125901",
+                    "name": "\/Resources\/Resource552",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/Hair_39\/hair_039.obj",
+                    "additionalProperties": {
+                        "name": "Material"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "553",
+                    "uid": "1533530867652367:125908",
+                    "name": "\/Resources\/Resource553.jpg",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/Hair_39\/hair_039.obj",
+                    "additionalProperties": {
+                        "relative": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/hair_tex_2048_v40.jpg",
+                        "absolute": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/Hair_39\/\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/hair_tex_2048_v40.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "556",
+                    "uid": "1533530867711008:125921",
+                    "name": "\/Resources\/Resource556.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/Hair_39\/hair_039.obj",
+                    "additionalProperties": {
+                        "name": "hair_Cube.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "563",
+                    "uid": "1533537860302609:445627",
+                    "name": "\/Resources\/Resource563",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/occulder-face_v2.obj",
+                    "additionalProperties": {
+                        "name": "Texture2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "564",
+                    "uid": "1533537860312793:445634",
+                    "name": "\/Resources\/Resource564.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/occulder-face_v2.obj",
+                    "additionalProperties": {
+                        "relative": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/REF\/JustinBieber\/GoodBieber_skin_hi.jpg",
+                        "absolute": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/\/Users\/nathanmillar\/0_3D\/AR\/Hair\/REF\/JustinBieber\/GoodBieber_skin_hi.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "567",
+                    "uid": "1533537860315050:445647",
+                    "name": "\/Resources\/Resource567.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/EXPORT\/occulder-face_v2.obj",
+                    "additionalProperties": {
+                        "name": "occulder-head_skin_hi.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "568",
+                    "uid": "1533598099093372:34216",
+                    "name": "\/Resources\/Resource568.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/light strands\/thin_stand_0_2_LIGHT.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "570",
+                    "uid": "1533598110528614:34262",
+                    "name": "\/Resources\/Resource570",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "572",
+                    "uid": "1533599280539298:53214",
+                    "name": "\/Resources\/Resource572.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/light strands\/thin_strand_02_2_LIGHT.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "573",
+                    "uid": "1533599289557150:53227",
+                    "name": "\/Resources\/Resource573.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/light strands\/thin_strand_02_LIGHT.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "575",
+                    "uid": "1533599313741967:54668",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "577",
+                    "uid": "1533599313942472:55908",
+                    "name": "\/Resources\/Resource577",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "578",
+                    "uid": "1533600296771175:49659",
+                    "name": "\/Resources\/Resource578.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/light strands\/thin_strand_05_2_LIGHT.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "579",
+                    "uid": "1533600296967920:49672",
+                    "name": "\/Resources\/Resource579.png",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/AR\/Hair\/BLEND\/texture\/light strands\/thin_strand_05_LIGHT.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "581",
+                    "uid": "1533600310086775:49710",
+                    "name": "\/Resources\/Resource581",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "583",
+                    "uid": "1533600310342209:50306",
+                    "name": "\/Resources\/Resource583",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "584",
+                    "uid": "1533600730773419:74958",
+                    "name": "\/Resources\/Resource435",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "585",
+                    "uid": "1533600965821610:120082",
+                    "name": "\/Resources\/Resource570",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "586",
+                    "uid": "1533601123911153:143906",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "587",
+                    "uid": "1533683416140076:84666",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "589",
+                    "uid": "1533683634413740:120141",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "591",
+                    "uid": "1533684962925714:17777",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "592",
+                    "uid": "1533685005548071:37585",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "593",
+                    "uid": "1533685081418165:57112",
+                    "name": "\/Resources\/Resource581",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "594",
+                    "uid": "1533685118408396:72899",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "595",
+                    "uid": "1533686037165862:111527",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "596",
+                    "uid": "1533686072940633:132446",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "597",
+                    "uid": "1533686147498922:156534",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "598",
+                    "uid": "1533686236503043:183059",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "599",
+                    "uid": "1533686525422159:222069",
+                    "name": "\/Resources\/Resource412",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "600",
+                    "uid": "1533686734157617:288932",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "601",
+                    "uid": "1533686901696606:329378",
+                    "name": "\/Resources\/Resource589",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "602",
+                    "uid": "1533686975837543:357696",
+                    "name": "\/Resources\/Resource575",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "603",
+                    "uid": "1533687147695775:391002",
+                    "name": "\/Resources\/Resource439",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "604",
+                    "uid": "1533687195982813:442555",
+                    "name": "\/Resources\/Resource441",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "605",
+                    "uid": "1533687370734818:544643",
+                    "name": "\/Resources\/Resource570",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "609",
+                    "uid": "1533688080537057:601351",
+                    "name": "\/Resources\/Resource609",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1495032273418655:313",
+                "1": "1515448846759604:9356",
+                "2": "1515451110518990:20746",
+                "3": "1515464433757800:32419",
+                "4": "1521511542662588:7754",
+                "5": "1521511542662605:7757",
+                "6": "1521511542662640:7764",
+                "7": "1521511542662678:7774",
+                "8": "1521511805504827:32161",
+                "9": "1521511805504843:32164",
+                "10": "1521689428684536:7773",
+                "11": "1521689431419606:10486",
+                "12": "1532928681245063:52665",
+                "13": "1533086033285294:119316",
+                "14": "1533087727038996:122582",
+                "15": "1533088369369472:127654",
+                "16": "1533088417218714:131001",
+                "17": "1533090972153486:141300",
+                "18": "1533091008290839:144590",
+                "19": "1533091028971483:148047",
+                "20": "1533091220013010:151613",
+                "21": "1533091250438199:155021",
+                "22": "1533091259912941:158342",
+                "23": "1533091272084652:161821",
+                "24": "1533091285823061:165342",
+                "25": "1533091295975460:168905",
+                "26": "1533091308159481:172394",
+                "27": "1533091321180099:175925",
+                "28": "1533092246551889:260972",
+                "29": "1533092246562842:261034",
+                "30": "1533092246567697:261065",
+                "31": "1533092246573136:261096",
+                "32": "1533092246577498:261127",
+                "33": "1533092246581209:261158",
+                "34": "1533092246585264:261189",
+                "35": "1533092246590531:261220",
+                "36": "1533092246595139:261251",
+                "37": "1533092246599661:261282",
+                "38": "1533092246605498:261313",
+                "39": "1533092246610512:261344",
+                "40": "1533095855834273:350050",
+                "41": "1533095855845689:350112",
+                "42": "1533095855850955:350143",
+                "43": "1533095855855940:350174",
+                "44": "1533095855860552:350205",
+                "45": "1533095855866616:350236",
+                "46": "1533095855871990:350267",
+                "47": "1533095855876764:350298",
+                "48": "1533095855881605:350329",
+                "49": "1533095855886811:350360",
+                "50": "1533095855891976:350391",
+                "51": "1533095855897078:350422",
+                "52": "1533099390784558:962603",
+                "53": "1533099505293146:985641",
+                "54": "1533099659308365:1001821",
+                "55": "1533101339688236:1029840",
+                "56": "1533101397522150:1054933",
+                "57": "1533101480635349:1078291",
+                "58": "1533101574983996:1100463",
+                "59": "1533101703055158:1121250",
+                "60": "1533101747671943:1143502",
+                "61": "1533101877897725:1173887",
+                "62": "1533101929398201:1201000",
+                "63": "1533102037350633:1231952",
+                "64": "1533102109826805:1256316",
+                "65": "1533102174977426:1286552",
+                "66": "1533102232136097:1312109",
+                "67": "1533102276237205:1330166",
+                "68": "1533102358545544:1348840",
+                "69": "1533102669273202:1399424",
+                "70": "1533103094444774:1439175",
+                "71": "1533103276361211:1465208",
+                "72": "1533103665350469:1501274",
+                "73": "1533103940090210:1546008",
+                "74": "1533103973566011:1569009",
+                "75": "1533104200823884:1603561",
+                "76": "1533104630028562:1646387",
+                "77": "1533104730901322:1674114",
+                "78": "1533104949524444:1714286",
+                "79": "1533105438617524:1844183",
+                "80": "1533105490216382:1870180",
+                "81": "1533105669594285:1905871",
+                "82": "1533105869287049:1949432",
+                "83": "1533105932279870:1981842",
+                "84": "1533106709975723:2021884",
+                "85": "1533107069046953:2073067",
+                "86": "1533107117979236:2101161",
+                "87": "1533107447805514:2150981",
+                "88": "1533107548469944:2191670",
+                "89": "1533107603717099:2220478",
+                "90": "1533107674012400:2249410",
+                "91": "1533107678900559:2251179",
+                "92": "1533107678900604:2251186",
+                "93": "1533107763305166:2282494",
+                "94": "1533107763305210:2282501",
+                "95": "1533107842383484:2315333",
+                "96": "1533107842383528:2315340",
+                "97": "1533107899936226:2346531",
+                "98": "1533107899936274:2346538",
+                "99": "1533107954487869:2377899",
+                "100": "1533107954487918:2377906",
+                "101": "1533530867583476:125899",
+                "102": "1533530867654623:125917",
+                "103": "1533537860301759:445625",
+                "104": "1533537860313288:445643",
+                "105": "1533598110495044:34238",
+                "106": "1533599313713851:54644",
+                "107": "1533599313922369:55849",
+                "108": "1533599417300664:71674",
+                "109": "1533599657890741:15818",
+                "110": "1533600310051730:49686",
+                "111": "1533600310322596:50282",
+                "112": "1533600730773267:74951",
+                "113": "1533600965821484:120075",
+                "114": "1533601123911035:143899",
+                "115": "1533683416139919:84659",
+                "116": "1533683634383050:120117",
+                "117": "1533684962925589:17770",
+                "118": "1533685005547963:37578",
+                "119": "1533685081418054:57105",
+                "120": "1533685118407836:72892",
+                "121": "1533686037165746:111520",
+                "122": "1533686072940516:132439",
+                "123": "1533686147498807:156527",
+                "124": "1533686236502927:183052",
+                "125": "1533686525422023:222062",
+                "126": "1533686734157497:288925",
+                "127": "1533686901696483:329371",
+                "128": "1533686975837418:357689",
+                "129": "1533687147695584:390995",
+                "130": "1533687195982677:442548",
+                "131": "1533687370734694:544636",
+                "132": "1533688080506130:601327"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "54",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "2D Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "billboard_multi_face",
+                                        "resourceId": "315",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vignette",
+                                        "resourceId": "317",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Post_effect_lookup_table",
+                                        "resourceId": "319",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Overlay Camera Output",
+                                "resourceId": "279",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder Mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder",
+                                "resourceId": "309",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Flower [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Grass_2",
+                                        "resourceId": "247",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_3",
+                                        "resourceId": "244",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_4",
+                                        "resourceId": "239",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_5",
+                                        "resourceId": "241",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_6",
+                                        "resourceId": "246",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_7",
+                                        "resourceId": "248",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_8",
+                                        "resourceId": "259",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Grass_9",
+                                        "resourceId": "240",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Pot",
+                                        "resourceId": "249",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "BackFlower",
+                                        "resourceId": "243",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "BAckFlowerMain",
+                                        "resourceId": "245",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Face",
+                                        "resourceId": "242",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_0",
+                                        "resourceId": "254",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_1",
+                                        "resourceId": "255",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_2",
+                                        "resourceId": "256",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_3",
+                                        "resourceId": "257",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_4",
+                                        "resourceId": "258",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Leaf",
+                                        "resourceId": "250",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Sweep",
+                                        "resourceId": "252",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Cap_1",
+                                        "resourceId": "251",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Cap_2",
+                                        "resourceId": "253",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "GrassHolder3",
+                                        "resourceId": "261",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder4",
+                                        "resourceId": "266",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder5",
+                                        "resourceId": "260",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder6",
+                                        "resourceId": "263",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder7",
+                                        "resourceId": "278",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder8",
+                                        "resourceId": "272",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder9",
+                                        "resourceId": "265",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "GrassHolder10",
+                                        "resourceId": "264",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerHead",
+                                        "resourceId": "267",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Cloner",
+                                        "resourceId": "262",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_0",
+                                        "resourceId": "273",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_1",
+                                        "resourceId": "274",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_2",
+                                        "resourceId": "275",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_3",
+                                        "resourceId": "276",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle_4",
+                                        "resourceId": "277",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerBody",
+                                        "resourceId": "268",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Leaf",
+                                        "resourceId": "269",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Cap_1",
+                                        "resourceId": "270",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Cap_2",
+                                        "resourceId": "271",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Base",
+                                        "resourceId": "56",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "MaterialParams",
+                                        "resourceId": "58",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Normal",
+                                        "resourceId": "59",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Flower06_Mat_2",
+                                        "resourceId": "62",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "FlowerFace",
+                                        "resourceId": "65",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Grass_DefaultMaterial_base",
+                                        "resourceId": "68",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Grass_DefaultMaterial_materialParams",
+                                        "resourceId": "69",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Pot_base",
+                                        "resourceId": "142",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "FlowerFace2",
+                                        "resourceId": "289",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Pot",
+                                        "resourceId": "55",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerFace01",
+                                        "resourceId": "64",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerBody",
+                                        "resourceId": "66",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Grass",
+                                        "resourceId": "67",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle01",
+                                        "resourceId": "70",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerFace02",
+                                        "resourceId": "290",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "FlowerPaddle02",
+                                        "resourceId": "291",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Hair Strands",
+                        "groups": [
+                            {
+                                "name": "Iighter",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "thin_stand_0_2_LIGHT",
+                                        "resourceId": "568",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_02_2_LIGHT",
+                                        "resourceId": "572",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_02_LIGHT",
+                                        "resourceId": "573",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_05_2_LIGHT",
+                                        "resourceId": "578",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_05_LIGHT",
+                                        "resourceId": "579",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "darker",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "strand_01",
+                                        "resourceId": "364",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "strand_02",
+                                        "resourceId": "368",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "strand_03",
+                                        "resourceId": "371",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "strand_04",
+                                        "resourceId": "372",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_01_2",
+                                        "resourceId": "398",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_02_2",
+                                        "resourceId": "399",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_03",
+                                        "resourceId": "400",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_04",
+                                        "resourceId": "401",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_05_2",
+                                        "resourceId": "402",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_05",
+                                        "resourceId": "403",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_06_2",
+                                        "resourceId": "404",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_07_2",
+                                        "resourceId": "405",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_08",
+                                        "resourceId": "406",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_09_2",
+                                        "resourceId": "407",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_stand_0",
+                                        "resourceId": "409",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_stand_0_2",
+                                        "resourceId": "410",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_07",
+                                        "resourceId": "413",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_06",
+                                        "resourceId": "414",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_01",
+                                        "resourceId": "415",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_02",
+                                        "resourceId": "416",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "thin_strand_09",
+                                        "resourceId": "429",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "hair_039",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "hair_tex_2048_v40.jpg",
+                                        "resourceId": "553",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "resourceId": "552",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "hair_Cube.001",
+                                        "resourceId": "556",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "occulder-face_v2",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "GoodBieber_skin_hi.jpg",
+                                        "resourceId": "564",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Texture2",
+                                        "resourceId": "563",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "occulder-head_skin_hi.001",
+                                        "resourceId": "567",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/Occluder Mesh.mesh"
+                },
+                {
+                    "id": "54",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "56",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Base.png"
+                },
+                {
+                    "id": "57",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "58",
+                    "path": "Flower [REMOVE_ME]\/Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "59",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Normal.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "62",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Flower06_Mat_2.png"
+                },
+                {
+                    "id": "65",
+                    "path": "Flower [REMOVE_ME]\/Textures\/FlowerFace.png"
+                },
+                {
+                    "id": "68",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Grass_DefaultMaterial_base.png"
+                },
+                {
+                    "id": "69",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Grass_DefaultMaterial_materialParams.png"
+                },
+                {
+                    "id": "142",
+                    "path": "Flower [REMOVE_ME]\/Textures\/Pot_base.png"
+                },
+                {
+                    "id": "239",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_4.mesh"
+                },
+                {
+                    "id": "240",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_9.mesh"
+                },
+                {
+                    "id": "241",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_5.mesh"
+                },
+                {
+                    "id": "242",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Face.mesh"
+                },
+                {
+                    "id": "243",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/BackFlower.mesh"
+                },
+                {
+                    "id": "244",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_3.mesh"
+                },
+                {
+                    "id": "245",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/BAckFlowerMain.mesh"
+                },
+                {
+                    "id": "246",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_6.mesh"
+                },
+                {
+                    "id": "247",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_2.mesh"
+                },
+                {
+                    "id": "248",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_7.mesh"
+                },
+                {
+                    "id": "249",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Pot.mesh"
+                },
+                {
+                    "id": "250",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Leaf.mesh"
+                },
+                {
+                    "id": "251",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Cap_1.mesh"
+                },
+                {
+                    "id": "252",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Sweep.mesh"
+                },
+                {
+                    "id": "253",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Cap_2.mesh"
+                },
+                {
+                    "id": "254",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/FlowerPaddle_0.mesh"
+                },
+                {
+                    "id": "255",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/FlowerPaddle_1.mesh"
+                },
+                {
+                    "id": "256",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/FlowerPaddle_2.mesh"
+                },
+                {
+                    "id": "257",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/FlowerPaddle_3.mesh"
+                },
+                {
+                    "id": "258",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/FlowerPaddle_4.mesh"
+                },
+                {
+                    "id": "259",
+                    "path": "Flower [REMOVE_ME]\/Meshes\/Grass_8.mesh"
+                },
+                {
+                    "id": "289",
+                    "path": "Flower [REMOVE_ME]\/Textures\/FlowerFace2.png"
+                },
+                {
+                    "id": "315",
+                    "path": "Textures\/2D Textures\/billboard_multi_face.png"
+                },
+                {
+                    "id": "317",
+                    "path": "Textures\/2D Textures\/vignette.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
+                },
+                {
+                    "id": "364",
+                    "path": "Hair Strands\/darker\/strand_01.png"
+                },
+                {
+                    "id": "368",
+                    "path": "Hair Strands\/darker\/strand_02.png"
+                },
+                {
+                    "id": "371",
+                    "path": "Hair Strands\/darker\/strand_03.png"
+                },
+                {
+                    "id": "372",
+                    "path": "Hair Strands\/darker\/strand_04.png"
+                },
+                {
+                    "id": "398",
+                    "path": "Hair Strands\/darker\/thin_strand_01_2.png"
+                },
+                {
+                    "id": "399",
+                    "path": "Hair Strands\/darker\/thin_strand_02_2.png"
+                },
+                {
+                    "id": "400",
+                    "path": "Hair Strands\/darker\/thin_strand_03.png"
+                },
+                {
+                    "id": "401",
+                    "path": "Hair Strands\/darker\/thin_strand_04.png"
+                },
+                {
+                    "id": "402",
+                    "path": "Hair Strands\/darker\/thin_strand_05_2.png"
+                },
+                {
+                    "id": "403",
+                    "path": "Hair Strands\/darker\/thin_strand_05.png"
+                },
+                {
+                    "id": "404",
+                    "path": "Hair Strands\/darker\/thin_strand_06_2.png"
+                },
+                {
+                    "id": "405",
+                    "path": "Hair Strands\/darker\/thin_strand_07_2.png"
+                },
+                {
+                    "id": "406",
+                    "path": "Hair Strands\/darker\/thin_strand_08.png"
+                },
+                {
+                    "id": "407",
+                    "path": "Hair Strands\/darker\/thin_strand_09_2.png"
+                },
+                {
+                    "id": "409",
+                    "path": "Hair Strands\/darker\/thin_stand_0.png"
+                },
+                {
+                    "id": "410",
+                    "path": "Hair Strands\/darker\/thin_stand_0_2.png"
+                },
+                {
+                    "id": "413",
+                    "path": "Hair Strands\/darker\/thin_strand_07.png"
+                },
+                {
+                    "id": "414",
+                    "path": "Hair Strands\/darker\/thin_strand_06.png"
+                },
+                {
+                    "id": "415",
+                    "path": "Hair Strands\/darker\/thin_strand_01.png"
+                },
+                {
+                    "id": "416",
+                    "path": "Hair Strands\/darker\/thin_strand_02.png"
+                },
+                {
+                    "id": "429",
+                    "path": "Hair Strands\/darker\/thin_strand_09.png"
+                },
+                {
+                    "id": "553",
+                    "path": "hair_039\/Textures\/hair_tex_2048_v40.jpg"
+                },
+                {
+                    "id": "556",
+                    "path": "hair_039\/Meshes\/hair_Cube.001.mesh"
+                },
+                {
+                    "id": "564",
+                    "path": "occulder-face_v2\/Textures\/GoodBieber_skin_hi.jpg.png"
+                },
+                {
+                    "id": "567",
+                    "path": "occulder-face_v2\/Meshes\/occulder-head_skin_hi.001.mesh"
+                },
+                {
+                    "id": "568",
+                    "path": "Hair Strands\/Iighter\/thin_stand_0_2_LIGHT.png"
+                },
+                {
+                    "id": "572",
+                    "path": "Hair Strands\/Iighter\/thin_strand_02_2_LIGHT.png"
+                },
+                {
+                    "id": "573",
+                    "path": "Hair Strands\/Iighter\/thin_strand_02_LIGHT.png"
+                },
+                {
+                    "id": "578",
+                    "path": "Hair Strands\/Iighter\/thin_strand_05_2_LIGHT.png"
+                },
+                {
+                    "id": "579",
+                    "path": "Hair Strands\/Iighter\/thin_strand_05_LIGHT.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,1825 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1533771599469",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "None"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Plastic-Bump_Mat"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Plastic-Smooth_MAT"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "SONY-Logo_Mat"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "SVGMat.001"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Screen_Mat"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Speakers_Mat"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Steel-Brushed_Mat"
+                    ],
+                    [
+                        "TV_000",
+                        "Materials",
+                        "Steel-Brushed_Mat_Steel-Brushed_TEX.jpg"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_1_L_BACKUP_Plane"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_1_L_LOGO_CUA_x5F_2"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_1_L_Plane.002"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_1_R_Cube.007"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_2_L_Cube.016"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_2_R_Cube.008"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_3_L_Cube.017"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_3_R_Cube.009"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_4_L_Cube.018"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_4_R_Cube.010"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_5_R_Cube.019"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_6_R_Cube.020"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_GridBox_Cube.022"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_GridMain_Joined_Cube.003"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_Panel_Main_Cube.001"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_Panel_Mid_Cube.015"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_m1_Cube.013"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_m2_Cube.012"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Back_m3_Cube.014"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Base_Legs_Cube"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolt_Alum_key_high_Cylinder.003"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolt_Alum_key_low_Cylinder.006"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolt_R_1_Cylinder.007"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolt_R_2_Cylinder.008"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolt_R_3_Cylinder.009"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Bolts_Mid_Cylinder.001"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "Cylinder"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "GridMain_Cube.011"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "GridSm_L_Cube.021"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "GridSml_R_BACKUP_DUPLICATES_Cube.043"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "GridSml_R_Cube.006"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "SONY_Logo_CUCurve.001"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "TV_Screen_Base_Cube.005"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "TV_Screen_Frame_Inner_Cube.004"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "TV_Screen_Frame_Main_Cube.002"
+                    ],
+                    [
+                        "TV_000",
+                        "Meshes",
+                        "TV_Screen_Glass_Plane.001"
+                    ],
+                    [
+                        "TV_000",
+                        "Textures"
+                    ],
+                    [
+                        "TV_000",
+                        "Textures",
+                        "Screen.jpg"
+                    ],
+                    [
+                        "TV_000",
+                        "Textures",
+                        "Steel-Brushed_TEX.jpg"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Materials",
+                        "trophy_pbr"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1508884415036595:113880",
+                    "1510687041436767:18328",
+                    "1520377736560929:83996"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Static Object",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "1",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1510687041464881:18334",
+                    "name": "\/Resources\/Resource157.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "trophy"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1510687140422169:18756",
+                    "name": "\/Resources\/Resource159.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1510687140556884:18765",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1510687316698085:19056",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1510687316714742:19065",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1510853662796593:7374",
+                    "name": "\/Resources\/Resource173.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1511403648791631:290790",
+                    "name": "\/Resources\/Resource174",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1520028540541521:739995",
+                    "name": "\/Resources\/Resource179",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1533769765735036:2483",
+                    "name": "\/Resources\/Resource180",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "None"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1533769765798158:2490",
+                    "name": "\/Resources\/Resource181",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Plastic-Bump_Mat"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1533769765804728:2497",
+                    "name": "\/Resources\/Resource182",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Plastic-Smooth_MAT"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1533769765809674:2504",
+                    "name": "\/Resources\/Resource183",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "SONY-Logo_Mat"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1533769765813676:2511",
+                    "name": "\/Resources\/Resource184",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "SVGMat.001"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1533769765817856:2518",
+                    "name": "\/Resources\/Resource185",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Screen_Mat"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1533769765917110:2525",
+                    "name": "\/Resources\/Resource186.jpg",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "relative": "\/Users\/nathanmillar\/0_3D\/TV\/blend\/tex\/Screen.jpg",
+                        "absolute": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/\/Users\/nathanmillar\/0_3D\/TV\/blend\/tex\/Screen.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1533769765918672:2534",
+                    "name": "\/Resources\/Resource187",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Speakers_Mat"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1533769765922920:2541",
+                    "name": "\/Resources\/Resource188",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Steel-Brushed_Mat"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1533769765966261:2548",
+                    "name": "\/Resources\/Resource189.jpg",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "relative": "\/Users\/nathanmillar\/0_3D\/TV\/blend\/tex\/Steel-Brushed_TEX.jpg",
+                        "absolute": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/\/Users\/nathanmillar\/0_3D\/TV\/blend\/tex\/Steel-Brushed_TEX.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1533769765968069:2557",
+                    "name": "\/Resources\/Resource190",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Steel-Brushed_Mat_Steel-Brushed_TEX.jpg"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1533769765992565:2580",
+                    "name": "\/Resources\/Resource202.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_1_L_BACKUP_Plane"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1533769765988885:2574",
+                    "name": "\/Resources\/Resource203.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_1_L_LOGO_CUA_x5F_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1533769765997578:2586",
+                    "name": "\/Resources\/Resource204.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_1_L_Plane.002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1533769766043877:2724",
+                    "name": "\/Resources\/Resource205.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_1_R_Cube.007"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1533769766026852:2676",
+                    "name": "\/Resources\/Resource206.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_2_L_Cube.016"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "207",
+                    "uid": "1533769766043409:2718",
+                    "name": "\/Resources\/Resource207.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_2_R_Cube.008"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1533769766026167:2670",
+                    "name": "\/Resources\/Resource208.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_3_L_Cube.017"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1533769766042928:2712",
+                    "name": "\/Resources\/Resource209.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_3_R_Cube.009"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1533769766025683:2664",
+                    "name": "\/Resources\/Resource210.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_4_L_Cube.018"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1533769766042431:2706",
+                    "name": "\/Resources\/Resource211.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_4_R_Cube.010"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1533769766025214:2658",
+                    "name": "\/Resources\/Resource212.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_5_R_Cube.019"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1533769766024718:2652",
+                    "name": "\/Resources\/Resource213.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_6_R_Cube.020"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1533769766011407:2604",
+                    "name": "\/Resources\/Resource214.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_GridBox_Cube.022"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1533769766022060:2646",
+                    "name": "\/Resources\/Resource215.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_GridMain_Joined_Cube.003"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1533769766047567:2742",
+                    "name": "\/Resources\/Resource216.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_Panel_Main_Cube.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1533769766034783:2682",
+                    "name": "\/Resources\/Resource217.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_Panel_Mid_Cube.015"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1533769766041159:2694",
+                    "name": "\/Resources\/Resource218.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_m1_Cube.013"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1533769766041959:2700",
+                    "name": "\/Resources\/Resource219.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_m2_Cube.012"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1533769766040938:2688",
+                    "name": "\/Resources\/Resource220.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Back_m3_Cube.014"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1533769766079692:2748",
+                    "name": "\/Resources\/Resource221.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Base_Legs_Cube"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1533769766014015:2616",
+                    "name": "\/Resources\/Resource222.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolt_Alum_key_high_Cylinder.003"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1533769766014823:2640",
+                    "name": "\/Resources\/Resource223.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolt_Alum_key_low_Cylinder.006"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1533769766014330:2634",
+                    "name": "\/Resources\/Resource224.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolt_R_1_Cylinder.007"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1533769766014229:2628",
+                    "name": "\/Resources\/Resource225.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolt_R_2_Cylinder.008"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1533769766014126:2622",
+                    "name": "\/Resources\/Resource226.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolt_R_3_Cylinder.009"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1533769766013730:2610",
+                    "name": "\/Resources\/Resource227.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Bolts_Mid_Cylinder.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1533769765985763:2568",
+                    "name": "\/Resources\/Resource228.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "Cylinder"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "229",
+                    "uid": "1533769766044032:2736",
+                    "name": "\/Resources\/Resource229.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "GridMain_Cube.011"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "230",
+                    "uid": "1533769766006616:2598",
+                    "name": "\/Resources\/Resource230.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "GridSm_L_Cube.021"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1533769766043966:2730",
+                    "name": "\/Resources\/Resource231.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "GridSml_R_BACKUP_DUPLICATES_Cube.043"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1533769766001968:2592",
+                    "name": "\/Resources\/Resource232.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "GridSml_R_Cube.006"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1533769766095484:2778",
+                    "name": "\/Resources\/Resource233.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "SONY_Logo_CUCurve.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1533769766082984:2760",
+                    "name": "\/Resources\/Resource234.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "TV_Screen_Base_Cube.005"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1533769766086620:2766",
+                    "name": "\/Resources\/Resource235.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "TV_Screen_Frame_Inner_Cube.004"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1533769766087394:2772",
+                    "name": "\/Resources\/Resource236.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "TV_Screen_Frame_Main_Cube.002"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1533769766080141:2754",
+                    "name": "\/Resources\/Resource237.mesh",
+                    "sourceFilePath": "\/Users\/nathanmillar\/0_3D\/TV\/Model\/OBJ\/TV_000.obj",
+                    "additionalProperties": {
+                        "name": "TV_Screen_Glass_Plane.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1520028516590214:738911",
+                "6": "1520377736560929:83996",
+                "7": "1533769765697975:2481",
+                "8": "1533769765973989:2564",
+                "9": "1533769765985791:2570",
+                "10": "1533769765988907:2576",
+                "11": "1533769765992580:2582",
+                "12": "1533769765997600:2588",
+                "13": "1533769766001991:2594",
+                "14": "1533769766006640:2600",
+                "15": "1533769766011428:2606",
+                "16": "1533769766013739:2612",
+                "17": "1533769766014020:2618",
+                "18": "1533769766014131:2624",
+                "19": "1533769766014233:2630",
+                "20": "1533769766014336:2636",
+                "21": "1533769766014837:2642",
+                "22": "1533769766022085:2648",
+                "23": "1533769766024728:2654",
+                "24": "1533769766025219:2660",
+                "25": "1533769766025693:2666",
+                "26": "1533769766026173:2672",
+                "27": "1533769766026902:2678",
+                "28": "1533769766034814:2684",
+                "29": "1533769766040954:2690",
+                "30": "1533769766041167:2696",
+                "31": "1533769766041965:2702",
+                "32": "1533769766042436:2708",
+                "33": "1533769766042936:2714",
+                "34": "1533769766043414:2720",
+                "35": "1533769766043882:2726",
+                "36": "1533769766043970:2732",
+                "37": "1533769766044043:2738",
+                "38": "1533769766047641:2744",
+                "39": "1533769766080070:2750",
+                "40": "1533769766080153:2756",
+                "41": "1533769766083001:2762",
+                "42": "1533769766086653:2768",
+                "43": "1533769766087443:2774"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_diff",
+                                "resourceId": "171",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_spec",
+                                "resourceId": "172",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "148",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "175",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "174",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "176",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trophy [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_pbr",
+                                        "resourceId": "179",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy",
+                                        "resourceId": "157",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_02_lambert1_materialParams",
+                                        "resourceId": "159",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_normal",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_base",
+                                        "resourceId": "173",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "TV_000",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Screen.jpg",
+                                        "resourceId": "186",
+                                        "extension": "jpg"
+                                    },
+                                    {
+                                        "name": "Steel-Brushed_TEX.jpg",
+                                        "resourceId": "189",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "SONY-Logo_Mat",
+                                        "resourceId": "183",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Steel-Brushed_Mat_Steel-Brushed_TEX.jpg",
+                                        "resourceId": "190",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Plastic-Bump_Mat",
+                                        "resourceId": "181",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Plastic-Smooth_MAT",
+                                        "resourceId": "182",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "SVGMat.001",
+                                        "resourceId": "184",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Screen_Mat",
+                                        "resourceId": "185",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Speakers_Mat",
+                                        "resourceId": "187",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Steel-Brushed_Mat",
+                                        "resourceId": "188",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "None",
+                                        "resourceId": "180",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Back_1_L_BACKUP_Plane",
+                                        "resourceId": "202",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_1_L_LOGO_CUA_x5F_2",
+                                        "resourceId": "203",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_1_L_Plane.002",
+                                        "resourceId": "204",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_1_R_Cube.007",
+                                        "resourceId": "205",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_2_L_Cube.016",
+                                        "resourceId": "206",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_2_R_Cube.008",
+                                        "resourceId": "207",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_3_L_Cube.017",
+                                        "resourceId": "208",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_3_R_Cube.009",
+                                        "resourceId": "209",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_4_L_Cube.018",
+                                        "resourceId": "210",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_4_R_Cube.010",
+                                        "resourceId": "211",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_5_R_Cube.019",
+                                        "resourceId": "212",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_6_R_Cube.020",
+                                        "resourceId": "213",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_GridBox_Cube.022",
+                                        "resourceId": "214",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_GridMain_Joined_Cube.003",
+                                        "resourceId": "215",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_Panel_Main_Cube.001",
+                                        "resourceId": "216",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_Panel_Mid_Cube.015",
+                                        "resourceId": "217",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_m1_Cube.013",
+                                        "resourceId": "218",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_m2_Cube.012",
+                                        "resourceId": "219",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Back_m3_Cube.014",
+                                        "resourceId": "220",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Base_Legs_Cube",
+                                        "resourceId": "221",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolt_Alum_key_high_Cylinder.003",
+                                        "resourceId": "222",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolt_Alum_key_low_Cylinder.006",
+                                        "resourceId": "223",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolt_R_1_Cylinder.007",
+                                        "resourceId": "224",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolt_R_2_Cylinder.008",
+                                        "resourceId": "225",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolt_R_3_Cylinder.009",
+                                        "resourceId": "226",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Bolts_Mid_Cylinder.001",
+                                        "resourceId": "227",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Cylinder",
+                                        "resourceId": "228",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "GridMain_Cube.011",
+                                        "resourceId": "229",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "GridSm_L_Cube.021",
+                                        "resourceId": "230",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "GridSml_R_BACKUP_DUPLICATES_Cube.043",
+                                        "resourceId": "231",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "GridSml_R_Cube.006",
+                                        "resourceId": "232",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "SONY_Logo_CUCurve.001",
+                                        "resourceId": "233",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "TV_Screen_Base_Cube.005",
+                                        "resourceId": "234",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "TV_Screen_Frame_Inner_Cube.004",
+                                        "resourceId": "235",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "TV_Screen_Frame_Main_Cube.002",
+                                        "resourceId": "236",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "TV_Screen_Glass_Plane.001",
+                                        "resourceId": "237",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "148",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "157",
+                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "159",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
+                },
+                {
+                    "id": "171",
+                    "path": "Textures\/speakeasy_diff.png"
+                },
+                {
+                    "id": "172",
+                    "path": "Textures\/speakeasy_spec.png"
+                },
+                {
+                    "id": "173",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
+                },
+                {
+                    "id": "175",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "186",
+                    "path": "TV_000\/Textures\/Screen.jpg"
+                },
+                {
+                    "id": "189",
+                    "path": "TV_000\/Textures\/Steel-Brushed_TEX.jpg"
+                },
+                {
+                    "id": "202",
+                    "path": "TV_000\/Meshes\/Back_1_L_BACKUP_Plane.mesh"
+                },
+                {
+                    "id": "203",
+                    "path": "TV_000\/Meshes\/Back_1_L_LOGO_CUA_x5F_2.mesh"
+                },
+                {
+                    "id": "204",
+                    "path": "TV_000\/Meshes\/Back_1_L_Plane.002.mesh"
+                },
+                {
+                    "id": "205",
+                    "path": "TV_000\/Meshes\/Back_1_R_Cube.007.mesh"
+                },
+                {
+                    "id": "206",
+                    "path": "TV_000\/Meshes\/Back_2_L_Cube.016.mesh"
+                },
+                {
+                    "id": "207",
+                    "path": "TV_000\/Meshes\/Back_2_R_Cube.008.mesh"
+                },
+                {
+                    "id": "208",
+                    "path": "TV_000\/Meshes\/Back_3_L_Cube.017.mesh"
+                },
+                {
+                    "id": "209",
+                    "path": "TV_000\/Meshes\/Back_3_R_Cube.009.mesh"
+                },
+                {
+                    "id": "210",
+                    "path": "TV_000\/Meshes\/Back_4_L_Cube.018.mesh"
+                },
+                {
+                    "id": "211",
+                    "path": "TV_000\/Meshes\/Back_4_R_Cube.010.mesh"
+                },
+                {
+                    "id": "212",
+                    "path": "TV_000\/Meshes\/Back_5_R_Cube.019.mesh"
+                },
+                {
+                    "id": "213",
+                    "path": "TV_000\/Meshes\/Back_6_R_Cube.020.mesh"
+                },
+                {
+                    "id": "214",
+                    "path": "TV_000\/Meshes\/Back_GridBox_Cube.022.mesh"
+                },
+                {
+                    "id": "215",
+                    "path": "TV_000\/Meshes\/Back_GridMain_Joined_Cube.003.mesh"
+                },
+                {
+                    "id": "216",
+                    "path": "TV_000\/Meshes\/Back_Panel_Main_Cube.001.mesh"
+                },
+                {
+                    "id": "217",
+                    "path": "TV_000\/Meshes\/Back_Panel_Mid_Cube.015.mesh"
+                },
+                {
+                    "id": "218",
+                    "path": "TV_000\/Meshes\/Back_m1_Cube.013.mesh"
+                },
+                {
+                    "id": "219",
+                    "path": "TV_000\/Meshes\/Back_m2_Cube.012.mesh"
+                },
+                {
+                    "id": "220",
+                    "path": "TV_000\/Meshes\/Back_m3_Cube.014.mesh"
+                },
+                {
+                    "id": "221",
+                    "path": "TV_000\/Meshes\/Base_Legs_Cube.mesh"
+                },
+                {
+                    "id": "222",
+                    "path": "TV_000\/Meshes\/Bolt_Alum_key_high_Cylinder.003.mesh"
+                },
+                {
+                    "id": "223",
+                    "path": "TV_000\/Meshes\/Bolt_Alum_key_low_Cylinder.006.mesh"
+                },
+                {
+                    "id": "224",
+                    "path": "TV_000\/Meshes\/Bolt_R_1_Cylinder.007.mesh"
+                },
+                {
+                    "id": "225",
+                    "path": "TV_000\/Meshes\/Bolt_R_2_Cylinder.008.mesh"
+                },
+                {
+                    "id": "226",
+                    "path": "TV_000\/Meshes\/Bolt_R_3_Cylinder.009.mesh"
+                },
+                {
+                    "id": "227",
+                    "path": "TV_000\/Meshes\/Bolts_Mid_Cylinder.001.mesh"
+                },
+                {
+                    "id": "228",
+                    "path": "TV_000\/Meshes\/Cylinder.mesh"
+                },
+                {
+                    "id": "229",
+                    "path": "TV_000\/Meshes\/GridMain_Cube.011.mesh"
+                },
+                {
+                    "id": "230",
+                    "path": "TV_000\/Meshes\/GridSm_L_Cube.021.mesh"
+                },
+                {
+                    "id": "231",
+                    "path": "TV_000\/Meshes\/GridSml_R_BACKUP_DUPLICATES_Cube.043.mesh"
+                },
+                {
+                    "id": "232",
+                    "path": "TV_000\/Meshes\/GridSml_R_Cube.006.mesh"
+                },
+                {
+                    "id": "233",
+                    "path": "TV_000\/Meshes\/SONY_Logo_CUCurve.001.mesh"
+                },
+                {
+                    "id": "234",
+                    "path": "TV_000\/Meshes\/TV_Screen_Base_Cube.005.mesh"
+                },
+                {
+                    "id": "235",
+                    "path": "TV_000\/Meshes\/TV_Screen_Frame_Inner_Cube.004.mesh"
+                },
+                {
+                    "id": "236",
+                    "path": "TV_000\/Meshes\/TV_Screen_Frame_Main_Cube.002.mesh"
+                },
+                {
+                    "id": "237",
+                    "path": "TV_000\/Meshes\/TV_Screen_Glass_Plane.001.mesh"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
